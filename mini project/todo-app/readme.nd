@@ -1,0 +1,24 @@
+# 📝 To‑Do App
+
+
+## Project Description
+A simple To‑Do List web app built using HTML, CSS, Bootstrap, and JavaScript.
+
+
+## Features
+- Add, edit, delete tasks
+- Mark tasks as completed
+- Task counter
+- Filter tasks
+- Light/Dark mode
+
+
+## Technologies Used
+- HTML
+- CSS / Bootstrap
+- JavaScript
+- DOM Manipulation
+
+
+## How to Run
+Open index.html in a browser.
