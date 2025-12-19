@@ -1,0 +1,17 @@
+body.dark {
+background-color: #121212;
+color: white;
+}
+
+body.dark .card {
+background-color: #1e1e1e;
+}
+
+.completed {
+text-decoration: line-through;
+color: rgb(255, 255, 255);
+}
+
+body.dark h2 {
+    color: white;
+}
